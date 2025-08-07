@@ -14,6 +14,10 @@ Este projeto tem como objetivo demonstrar, de forma controlada e educacional, co
 
 ---
 
+## Resultado obtido
+<img width="1128" height="580" alt="image" src="https://github.com/user-attachments/assets/c5e8a6bf-8b96-4be3-bd2a-51cc156307b5" />
+
+
 ## 🧪 Tecnologias Utilizadas
 
 - **Python 3**
@@ -37,3 +41,7 @@ Este projeto tem como objetivo demonstrar, de forma controlada e educacional, co
    - Este é o código responsável pela simulação dos ataques SQL Injection:
    ```python
    # [Cole aqui o código completo gerado anteriormente com os payloads e lógica de simulação]
+
+
+
+   Desenvolvido com 💻 por Rone Bragaglia
